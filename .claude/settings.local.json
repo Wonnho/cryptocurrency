@@ -1,0 +1,12 @@
+{
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "tosspayments-integration-guide"
+  ],
+  "spinnerTipsEnabled": true,
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)"
+    ]
+  }
+}
